@@ -37,7 +37,7 @@ export default {
   .pagination-progress-bar {
     height: inherit;
     border-radius: 5px;
-    background-color: #f00;
+    background-color: var(--main-point-color);;
     transition: width 0.2s ease-out 0s;
   }
 
